@@ -1,9 +1,9 @@
 {
   "development": {
     "username": "admin",
-    "password": "2wlsgh1575",
+    "password": "",
     "database": "SOPT_27",
-    "host": "db-sopt27-server.coxqx6hog3jg.ap-northeast-2.rds.amazonaws.com",
+    "host": "",
     "dialect": "mysql"
   },
   "test": {

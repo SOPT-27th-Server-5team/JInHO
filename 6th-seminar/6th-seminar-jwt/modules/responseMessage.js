@@ -29,7 +29,7 @@ module.exports = {
   UPDATE_USER_FAIL: "사용자 업데이트 실패",
   DELETE_USER_SUCCESS: "사용자 삭제 성공",
   DELETE_USER_FAIL: "사용자 삭제 실패",
-
+  
   /* Post */
   CREATE_POST_SUCCESS: "게시글 생성 완료",
   CREATE_POST_FAIL: "게시글 생성 실패",
@@ -40,7 +40,7 @@ module.exports = {
   DELETE_POST_SUCCESS: "게시글 삭제 성공",
   DELETE_POST_FAIL: "게시글 삭제 실패",
 
-  /* 프로필 */
+  /* 프로필 */ 
   READ_PROFILE_SUCCESS: "프로필 조회 성공",
   READ_PROFILE_FAIL: "프로필 조회 실패",
 
@@ -50,7 +50,7 @@ module.exports = {
   INVALID_TOKEN: '유효하지 않은 토큰값입니다.',
   AUTH_SUCCESS: '인증에 성공했습니다.',
   ISSUE_SUCCESS: '새로운 토큰이 생성되었습니다.',
-
+  
   /* 서버에러 */
   INTERNAL_SERVER_ERROR: "서버 내부 오류",
 }
